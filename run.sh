@@ -28,5 +28,5 @@
 # machine='ccv'
 
 source ~/cs4sc/bin/activate
-python3 test.py -sy 2015 -ey 2021 -sm 3 -em 12 -A
+python3 test.py -sy 2018 -ey 2019 -sm 3 -em 12 -A
 deactivate
